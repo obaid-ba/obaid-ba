@@ -53,10 +53,9 @@ I'm  a developer with experience in builfing websites for small and medium sized
 
 
 
-<details>
-<summary>
+
 <h2>👾 tools ☠</h2>
-</summary>
+
 <!--Creaative-->
 <p>
   <br>
@@ -74,4 +73,4 @@ I'm  a developer with experience in builfing websites for small and medium sized
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   
 </p>
-</details>
+
