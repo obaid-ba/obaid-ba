@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obaid Allah Ben Ali</h1>
-<h3 align="center">A passionate fI'm a developer with experience in builfing websites for small and medium sized businesses. I'm experienced in MERN Full Stackrontend developer from India</h3>
+<h3 align="center">I'm a developer with experience in building websites for small and medium sized businesses. I'm experienced in MERN Stack</h3>
 <br clear="both">
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obaid-ba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
