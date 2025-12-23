@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [ARTHI](coming soon)
 
-- 🌱 I’m currently learning **MERN STACK,Django**
+- 🌱 I’m currently learning **FUll STACK**
 
-- 💬 Ask me about **react.js ,vue.js**
+- 💬 Ask me about **react.js ,vue.js , javaScript**
 
 - 📫 How to reach me **b.obaid28@gmail.com**
 
