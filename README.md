@@ -162,6 +162,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaid-ba&theme=tokyonight&hide_border=true" height="150" />
+  <a href="https://leetcode.com/obaid_28/"><img src="https://leetcard.jacoblin.cool/obaid_28?theme=dark" width="400" /></a>
 </div>
 
 ---
